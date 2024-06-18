@@ -37,7 +37,7 @@
 
         <body>
 
-        <form action="formgwe.php" method="POST">
+        <form action="pertemuan5(kampusklik).php" method="POST">
             
                 <button  type="return" name="return">
                     RETURN
